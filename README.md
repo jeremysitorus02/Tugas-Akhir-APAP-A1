@@ -15,3 +15,21 @@
 | 1806269606 | Andhika Brosnan | Fitur menambahkan anggota |
 | 1806269732 | Jeremy Andre Sitorus | Fitur halaman utama |
 | 1806269713 | Georgius Yoga | Fitur login dan logout |
+
+**Kontrak Tahap 2 Tugas Akhir**
+
+
+| NPM | Nama Lengkap | Fitur Yang Akan Diselesaikan |
+| :---:   | :-: | :-: |
+| 1806269606 | Andhika Brosnan | Fitur menambahkan anggota |
+| 1806269732 | Jeremy Andre Sitorus | Fitur halaman utama |
+| 1806269713 | Georgius Yoga | Fitur login dan logout |
+
+**Kontrak Tahap 3 Tugas Akhir**
+
+
+| NPM | Nama Lengkap | Fitur Yang Akan Diselesaikan |
+| :---:   | :-: | :-: |
+| 1806269606 | Andhika Brosnan | Fitur menambahkan anggota |
+| 1806269732 | Jeremy Andre Sitorus | Fitur halaman utama |
+| 1806269713 | Georgius Yoga | Fitur login dan logout |
